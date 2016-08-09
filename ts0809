@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>ttt5</title>
+	<script src="http://j0.feiheimg.com/?p=plus/1.0.0/jquery-1.10.2.min.js"></script>
+	<script src="http://j3.feiheimg.com/m/js/1.0.0/fh.global.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	 <link rel="stylesheet" href="http://c2.feiheimg.com/?p=web/css/1.0.0/global.css&id=2016031601" />
+
+	
+<style>
+ul {list-style: none;margin:0; padding:0;}
+a{ text-decoration:none;} 
+p{
+	margin:0;
+	padding:0;
+}
+body{
+	background-color:#fff;
+	font-size:0.12rem;
+	font-family:"Open Sans",Arial,"Hiragino Sans GB","Microsoft YaHei","微软雅黑","STHeiti","WenQuanYi Micro Hei",SimSun,sans-serif;
+	-webkit-font-smoothing:antialiased;
+	margin:0;
+	padding:0;
+	vertical-align:baseline;
+}
+
+.product-details{
+	background:#fff;
+	width:100%;
+	margin:0 auto;
+	overflow:hidden;
+}
+.pro-body{
+	display:block;
+	border:1px solid #e1e1e1;
+	width:100%;
+	display:webkit-box;
+	display:-moz-box;
+	display:-ms-flexbox;
+}
+.pro-img{
+display:block;
+	height:2.1rem;
+	border-right:1px solid #e1e1e1;
+	-moz-box-flex:0;
+	-webkit-box-flex:0;
+	-ms-flex:0;
+	box-flex:0;
+}
+.pro-img img{
+	width:2.4rem;
+	height:2.1rem;
+}
+.pro-info{
+	position:relative;
+	
+	height:2.1rem;
+	padding-left:0.2rem;
+	-moz-box-flex:8;
+	-webkit-box-flex:8;
+	-ms-flex:8;
+	box-flex:8;
+	display:block;
+}
+.pro-info span{
+	color:#1f1f1f;
+	font-size:0.26rem;
+	line-height:0.26rem;
+	display:block;
+	padding-top:0.5rem;
+}
+.pro-info i{
+	color:#f7625b;
+	font-size:0.36rem;
+	line-height:0.72rem;
+	margin-right:0.3rem;
+}
+.pro-info em{
+font-size:0.26rem;
+line-height:0.26rem;
+	color:#979797;
+}
+.pro-info b{
+	position:absolute;
+	font-size:0.2rem;
+	line-height:0.2rem;
+	padding:0.09rem 0.14rem;
+	border:1px solid #f95f5f;
+	right:0.15rem;
+	bottom:0.1rem;
+	color:#fb6161;
+	background:url(n-ICO.jpg);
+	background-size:0.14rem 0.24rem;
+	background-position:1rem center;
+	background-repeat:no-repeat;
+	padding-right:0.3rem;
+}
+</style>
+</head>
+<body>
+	<div class="product-details">
+		<a href="#" class="pro-body" >
+			<em class="pro-img">
+			  <img src="http://p.feihe.com/n1/tfs/2016/08/01/ItemProImg/1a938238-9d8e-4362-8f32-bd9a569e0e5b.jpg_400x400.jpg" />
+			</em>
+			<span class="pro-info">
+				<span>星飞帆2段（700g）买6赠1</span>
+				<i>￥1848</i><em>原价:<s>￥2156</s></em>
+				<b>立刻购买</b>
+			</span>
+		</a>
+			
+		
+		
+		
+	</div>
+		
+	
+
+</body>
+</html>
