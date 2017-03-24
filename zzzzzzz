@@ -4,11 +4,19 @@
     <meta charset="utf-8">
     <title>云洗衣选择</title>
 	<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
-	<script src="js/fh.global.js"></script>
+
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-	<link rel="stylesheet" href="css/global.css" />
 	<script src="js/swiper-3.4.2.min.js"></script>
 	<link rel="stylesheet" href="css/swiper-3.4.2.min.css">
+	   
+    <link href="http://c0.feiheimg.com/?p=m/css/3.0.1/global.css,m/css/3.0.0/page.css&id=2017022701" rel="stylesheet">
+    <script src="http://j3.feiheimg.com/?p=plus/1.0.0/jquery-1.10.2.min.js,plus/2.0.0/layer.mobile-v2.0/fh.layer.js,m/js/2.0.0/fh.global.js,plus/1.0.0/jquery.cookie.min.js,plus/1.0.0/jquery.lazyload.min.js,plus/1.0.0/touchslider.min.js,plus/1.0.0/jquery.easytemplate.js,global/js/1.0.0/fh.toploginmsg.js,m/js/1.0.0/maparea_resize.js,plus/1.0.0/juicer/juicer-min.js,global/js/3.0.0/Common/BaseExtend.js,global/js/3.0.0/fh.customerext.js&id=2017022702"></script>
+ 
+    
+
+    <link href="http://c2.feiheimg.com/?p=m/css/3.0.1/index/index.css,plus/1.0.0/css/jquery.ui.dialog.css,plus/1.0.0/css/jquery-ui.css,plus/1.0.0/css/jquery.ui.core.css,plus/1.0.0/css/flickity.docs.css&id=2017020703" rel="stylesheet">
+    <script src="http://j0.feiheimg.com/?p=m/js/1.0.0/TouchSlide.1.1.js,global/js/1.0.0/fh.spcms.js,m/js/1.0.0/appimg.js,plus/1.0.0/jquery.ui.dialog.min.js,global/js/1.0.0/fh.addtocart.js,m/js/1.0.0/iscroll.js,plus/1.0.0/flickity.docs.min.js&id=2017022701"></script>
+
 
 	
 <style>
